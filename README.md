@@ -6,6 +6,7 @@ Lorem Ipsum
 
 [Lorem Ipsum Generator](https://ru.lipsum.com/)
 ![https://pp.userapi.com/c851416/v851416474/8bd6c/KjQLb8PmMV8.jpg](https://pp.userapi.com/c851416/v851416474/8bd6c/KjQLb8PmMV8.jpg)
+
 |*Предмет* | *Количество* | *Цена*
 
 | --------| :----:| ---:|
